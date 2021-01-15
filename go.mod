@@ -1,4 +1,4 @@
-module github.com/Ssx5/chacha20.git
+module github.com/Ssx5/chacha20
 
 go 1.12
 
